@@ -1,5 +1,5 @@
 <div>
-  <h2>Hey there, what's up?</h2>
+  <h2>Olá, tudo bem?</h2>
 
   
   <p>
@@ -9,19 +9,19 @@
   </p>
 
   <p align="left">
-   Welcome to my profile! I'm Douglas Cassim, a Brazilian WEB/Software development student.
+   Bem-vindo ao meu perfil! Sou Douglas Cassim, estudante brasileiro de desenvolvimento WEB/Software.
 
-💻 I currently work as a PLC Programmer, in the LADDER and STL languages.
+💻 Atualmente atuo como Programador de PLC, nas linguagens LADDER e STL.
 
-👨‍🎓 I'm studying Software/WEB Development, I want to increase my knowledge in programming languages, moving on to the world of DEVELOPERS. 💪
+👨‍🎓 Estou cursando Desenvolvimento de Software/WEB, quero aumentar meus conhecimentos em linguagens de programação, passando para o mundo dos DESENVOLVEDORES. 💪
 
-"No matter how many mistakes you make or how slowly you progress, you will still be ahead of those who stand still."
+<i> "Não importa quantos erros você cometa ou quão devagar progrida, você ainda estará à frente de quem não está tentado". </i>
 
   </p>
 </div>
 
 <div>
-  <h3>Some of the technologies I'm studying</h3>
+  <h3>Algumas das tecnologias que estou estudando</h3>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -32,7 +32,7 @@
 </div>
 <br>
 <div>
-  <p>🚀 <b>Always seeking new knowledge. </b>🚀</p>
+  <p>🚀 <i><b>Sempre em busca de novos conhecimentos. </b></i> 🚀</p>
  </div>
 
 
