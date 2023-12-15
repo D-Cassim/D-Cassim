@@ -5,7 +5,7 @@
   <p>
     <a target="_blank" href="mailto:dcassim.silva@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
     <a target="_blank" href="https://www.linkedin.com/in/douglas-cassim-b982a4102/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-D14836%3F?style=flat-square&logo=LinkedIn&logoColor=white&labelColor=blue&color=blue"/></a>
-    <img align="right" alt="Visitors" src="https://api.visitorbadge.io/api/visitors?path=refusado&labelColor=%232e3440&countColor=%23c7ced9&style=flat-square&labelStyle=lower" />
+    <img align="right" alt="Visitors" src="https://api.visitorbadge.io/api/visitors?path=D-Cassim&labelColor=%232e3440&countColor=%23c7ced9&style=flat-square&labelStyle=lower" />
   </p>
 
   <p align="left">
